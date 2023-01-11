@@ -2,6 +2,4 @@ Hello!!
 
 This is Aganya
 
-This is a heading
-
-This is a generic descriptions
+This is a navbar
